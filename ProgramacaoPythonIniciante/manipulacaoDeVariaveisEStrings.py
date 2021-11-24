@@ -25,5 +25,11 @@ palavra2 = 'Python'
 # print(letra, palavra1)
 # print('Esta', palavra1, 'se chama', palavra2)
 
-idade = input("Digite sua idade:")
-print("Você tem", idade, "anos.")
+# idade = input("Digite sua idade:")
+# print("Você tem", idade, "anos.")
+
+# pH = input("Qual o pH do solo durante a última medição?")
+# print("O pH medido foi", pH)
+
+nome = input("Qual é seu nome?")
+print("Seu nome é", nome)
