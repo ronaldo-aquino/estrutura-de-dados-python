@@ -13,3 +13,9 @@ def calcula_energia_potencial_gravitacional(m, h, g = 10):
   return e
 
 calcula_energia_potencial_gravitacional(30, 12, 9.8)
+
+def grausParaFahrenheit(graus):
+  conversao = (9 * float(graus) + 160) / 5
+  return print(conversao)
+
+grausParaFahrenheit(29)
